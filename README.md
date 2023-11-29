@@ -14,3 +14,4 @@ All Session
 
 Software Download
 1. https://github.com/comfyanonymous/ComfyUI/releases/download/latest/ComfyUI_windows_portable_nvidia_cu118_or_cpu.7z
+2. Model - https://civitai.com/models/4384/dreamshaper
