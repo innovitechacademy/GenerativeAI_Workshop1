@@ -11,3 +11,6 @@ All Session
   5. Beginner’s Guide to ComfyUI - https://stable-diffusion-art.com/comfyui/
   6. CivitAI Offical Website - https://civitai.com/
   7. Introduction to Graph Database Brief Introduction - https://www.youtube.com/watch?v=ws3w1xyogW8&t=10s
+
+Software Download
+1. https://github.com/comfyanonymous/ComfyUI/releases/download/latest/ComfyUI_windows_portable_nvidia_cu118_or_cpu.7z
