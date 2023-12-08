@@ -1,7 +1,7 @@
 # GenerativeAI Workshop
 
-  1. Workshop Date : 29 November 2023
-  2. Period : 2:30pm - 5:30pm
+  1. Workshop Date : 9 December 2023
+  2. Period : 3:00pm - 6:00pm
 
 All Session
   1. Powerpoint - https://github.com/innovitechacademy/GenerativeAI_Workshop1/blob/main/InnoVi%20Tech%20Academy%20GenAI%20%E5%9F%BA%E6%9C%AC%E6%87%89%E7%94%A8%E5%B7%A5%E4%BD%9C%E5%9D%8A.pdf
