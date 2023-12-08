@@ -1,4 +1,4 @@
-# GenerativeAI Workshop
+# GenerativeAI Basic Workshop
 
   1. Workshop Date : 9 December 2023
   2. Period : 3:00pm - 6:00pm
