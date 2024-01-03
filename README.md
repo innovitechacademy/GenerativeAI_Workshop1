@@ -4,7 +4,7 @@
   2. Period : 7:30pm - 10:00pm
 
 All Session
-  1. Powerpoint - https://github.com/innovitechacademy/GenerativeAI_Workshop1/blob/main/InnoVi%20Tech%20Academy%20GenAI%20%E5%9F%BA%E6%9C%AC%E6%87%89%E7%94%A8%E5%B7%A5%E4%BD%9C%E5%9D%8A(9%20Dec%202023).pdf
+  1. Powerpoint - https://github.com/innovitechacademy/GenerativeAI_Workshop1/blob/main/InnoVi%20Tech%20Academy%20GenAI%20%E5%9F%BA%E6%9C%AC%E6%87%89%E7%94%A8%E5%B7%A5%E4%BD%9C%E5%9D%8A(4%20Jan%202024).pdf
   2. Streamlit Offical Website - [https://www.youtube.com/watch?v=ZPhv4qmT9EQ&t=56s](https://streamlit.io/)
   3. ComfyUI Official Website- https://github.com/comfyanonymous/ComfyUI
   4. ComfyUI Examples - https://comfyanonymous.github.io/ComfyUI_examples/
